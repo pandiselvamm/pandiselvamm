@@ -10,7 +10,7 @@ I am a **Senior Software Engineer** passionate about building scalable applicati
 - **Other Tools**: Docker, GitHub, Jenkins
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandiselvamm&layout=compact&theme=radical&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandiselvamm&layout=compact&theme=radical&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pandi-selvam-77418419)
